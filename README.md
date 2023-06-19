@@ -50,8 +50,7 @@
 <img src="https://camo.githubusercontent.com/d809aad38fc10dac3806149506748f6c116f4602e9df8e0e93de1819b4d901ae/68747470733a2f2f6d656d65722d7472696e69622e76657263656c2e6170702f" width="260px"/>
 
 
-<p align="center">
-<!-- <img src="https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge"> -->
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=devamdoshi212&icon=7&color=9)](https://visitcount.itsvg.in)

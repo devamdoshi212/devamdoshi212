@@ -19,14 +19,14 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=devam_doshi212)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=devamdoshi212&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src=" https://9gag.com/tech" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=devamdoshi212&icon=7&color=9)](https://visitcount.itsvg.in)

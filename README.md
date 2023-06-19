@@ -3,7 +3,6 @@
 
 <br>
 
-<br>
 <h2>💫 About Me:</h2>
 <h3>
 🔭I’m currently working on Web Development Project.
@@ -14,7 +13,6 @@
 <br>
 ⚡ Fun fact: Why don't scientists trust atoms? Because they make up everything!
 </h3>
-<br>
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" height="470px" alt="adam-pw" /></p>
@@ -41,8 +39,10 @@
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=devamdoshi212&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-## 😂 Random Dev Meme
-<img src=" https://9gag.com/tech" width="512px"/>
+## 😂 Meme
+<p align="center">
+<img src="https://camo.githubusercontent.com/d809aad38fc10dac3806149506748f6c116f4602e9df8e0e93de1819b4d901ae/68747470733a2f2f6d656d65722d7472696e69622e76657263656c2e6170702f" width="260px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=devamdoshi212&icon=7&color=9)](https://visitcount.itsvg.in)

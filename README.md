@@ -4,11 +4,11 @@
 <br>
 
 <br>
+## 💫 About Me:
+🔭I’m currently working on Web Development Project.<br>🌱I’m currently learning JavaScript.<br>📫 How to reach me: devamdoshi212@gmail.com<br>⚡ Fun fact: Why don't scientists trust atoms? Because they make up everything!<br><br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-## 💫 About Me:
-🔭I’m currently working on Web Development Project.<br>🌱I’m currently learning JavaScript.<br>📫 How to reach me: devamdoshi212@gmail.com<br>⚡ Fun fact: Why don't scientists trust atoms? Because they make up everything!<br><br>
 
 
 ## 🌐 Socials:

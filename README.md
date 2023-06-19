@@ -1,5 +1,5 @@
-<p align="center">
-    # Helllow Guyzz 👋, I'm Devam Doshi
+<p align="center" style="font-size: 24px;">
+  <b> Helloww Guyzz 👋, I'm Devam Doshi</b>
 </p>
 
 ## 💫 About Me:

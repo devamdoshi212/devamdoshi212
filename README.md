@@ -32,19 +32,28 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=devamdoshi212&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
+<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 
 ## ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=devamdoshi212&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<!-- ## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=devamdoshi212&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) -->
 
 ## 😂 Meme
 <p align="center">
 <img src="https://camo.githubusercontent.com/d809aad38fc10dac3806149506748f6c116f4602e9df8e0e93de1819b4d901ae/68747470733a2f2f6d656d65722d7472696e69622e76657263656c2e6170702f" width="260px"/>
 
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge">
 ---
+
 [![](https://visitcount.itsvg.in/api?id=devamdoshi212&icon=7&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

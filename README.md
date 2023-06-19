@@ -1,4 +1,6 @@
-# Helllow Guyzz 👋, I'm Devam Doshi
+<p align="center">
+    # Helllow Guyzz 👋, I'm Devam Doshi
+</p>
 
 ## 💫 About Me:
 🔭I’m currently working on Web Development Project.<br>🌱I’m currently learning JavaScript.<br>📫 How to reach me: devamdoshi212@gmail.com<br>⚡ Fun fact: Why don't scientists trust atoms? Because they make up everything!<br><br>

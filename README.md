@@ -51,7 +51,7 @@
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge">
+<!-- <img src="https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge"> -->
 ---
 
 [![](https://visitcount.itsvg.in/api?id=devamdoshi212&icon=7&color=9)](https://visitcount.itsvg.in)

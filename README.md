@@ -29,11 +29,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=devamdoshi212&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
+<!--<p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+<!--<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 
 
 [![](https://visitcount.itsvg.in/api?id=devamdoshi212&icon=7&color=9)](https://visitcount.itsvg.in)
